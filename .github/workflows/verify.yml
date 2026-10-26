@@ -1,0 +1,30 @@
+name: Verify portable social agent
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  unit-and-source-audit:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Offline skill-source integrity
+        run: python scripts/verify_upstream.py --check-manifest
+      - name: Skill lint
+        run: python scripts/lint_skills.py
+      - name: Generated skill-copy consistency
+        run: python scripts/sync_adapters.py --check
+      - name: Static release gates
+        run: python scripts/independent_release_audit.py
+      - name: Unit and adversarial local checks
+        run: python -m unittest discover -s tests -v
+      - name: Verify privacy exclusions
+        run: |
+          test ! -d .social
+          test ! -d .source-cache

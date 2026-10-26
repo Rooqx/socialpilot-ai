@@ -1,0 +1,995 @@
+{
+  "schema": 1,
+  "note": "Commit-pinned source URLs; material is not copied into distributable to preserve source rights and update clarity. Check provenance and original licenses before reuse.",
+  "sources": [
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/audience-growth-tracker-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/audience-growth-tracker-sms/SKILL.md",
+      "referenced_by": [
+        "analytics-and-experiments"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/caption-writer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/caption-writer-sms/SKILL.md",
+      "referenced_by": [
+        "instagram-caption-writer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/carousel-writer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/carousel-writer-sms/SKILL.md",
+      "referenced_by": [
+        "carousel-storyboard"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/content-calendar-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/content-calendar-sms/SKILL.md",
+      "referenced_by": [
+        "editorial-calendar"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/content-pattern-analyzer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/content-pattern-analyzer-sms/SKILL.md",
+      "referenced_by": [
+        "analytics-and-experiments",
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/content-repurposer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/content-repurposer-sms/SKILL.md",
+      "referenced_by": [
+        "content-repurposer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/content-strategy-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/content-strategy-sms/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/hook-writer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/hook-writer-sms/SKILL.md",
+      "referenced_by": [
+        "hook-optimizer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/optimization-advisor-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/optimization-advisor-sms/SKILL.md",
+      "referenced_by": [
+        "continuous-improvement"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/performance-analyzer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/performance-analyzer-sms/SKILL.md",
+      "referenced_by": [
+        "analytics-and-experiments"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/platform-strategy-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/platform-strategy-sms/SKILL.md",
+      "referenced_by": [
+        "platform-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/post-writer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/post-writer-sms/SKILL.md",
+      "referenced_by": [
+        "linkedin-post-writer",
+        "x-post-writer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/social-media-context-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/social-media-context-sms/SKILL.md",
+      "referenced_by": [
+        "context-manager"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "blacktwist/social-media-skills",
+      "commit": "4f85b07069983b3b0b9bbe6519fed7017edcce81",
+      "path": "skills/thread-writer-sms/SKILL.md",
+      "url": "https://github.com/blacktwist/social-media-skills/blob/4f85b07069983b3b0b9bbe6519fed7017edcce81/skills/thread-writer-sms/SKILL.md",
+      "referenced_by": [
+        "x-thread-writer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/analytics-dashboard/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/analytics-dashboard/SKILL.md",
+      "referenced_by": [
+        "analytics-and-experiments"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/content-matrix/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/content-matrix/SKILL.md",
+      "referenced_by": [
+        "idea-pipeline"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/gemini-carousel/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/gemini-carousel/SKILL.md",
+      "referenced_by": [
+        "carousel-storyboard",
+        "visual-asset-production",
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/gemini-infographic/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/gemini-infographic/SKILL.md",
+      "referenced_by": [
+        "visual-asset-production",
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/graphic-designer/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/graphic-designer/SKILL.md",
+      "referenced_by": [
+        "visual-asset-production",
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/hook-generator/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/hook-generator/SKILL.md",
+      "referenced_by": [
+        "hook-optimizer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/newsletter-voice/references/archetypes.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/newsletter-voice/references/archetypes.md",
+      "referenced_by": [],
+      "source_status": "SUPPLEMENTARY_REFERENCE_NOT_A_USER_WRITING_SAMPLE"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/niche-research/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/niche-research/SKILL.md",
+      "referenced_by": [
+        "audience-research",
+        "source-research"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/pinned-comment/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/pinned-comment/SKILL.md",
+      "referenced_by": [
+        "community-engagement"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/post-formatter/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/post-formatter/SKILL.md",
+      "referenced_by": [
+        "copy-editor",
+        "linkedin-post-writer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/post-scorer/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/post-scorer/SKILL.md",
+      "referenced_by": [
+        "post-qa"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/post-writer/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/post-writer/SKILL.md",
+      "referenced_by": [
+        "linkedin-post-writer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/profile-optimizer/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/profile-optimizer/SKILL.md",
+      "referenced_by": [
+        "profile-auditor"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/quote-post/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/quote-post/SKILL.md",
+      "referenced_by": [
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/reels-scripting/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/reels-scripting/SKILL.md",
+      "referenced_by": [
+        "reel-scriptwriter"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/voice-builder/SKILL.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/voice-builder/SKILL.md",
+      "referenced_by": [
+        "context-manager",
+        "voice-profiler"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "charlie947/social-media-skills",
+      "commit": "10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b",
+      "path": "skills/voice-builder/references/sample-content.md",
+      "url": "https://github.com/charlie947/social-media-skills/blob/10ca79c0ec0be0f7654d19cd4f0c86b6fa6ed23b/skills/voice-builder/references/sample-content.md",
+      "referenced_by": [],
+      "source_status": "SUPPLEMENTARY_REFERENCE_NOT_A_USER_WRITING_SAMPLE"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/ab-testing/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/ab-testing/SKILL.md",
+      "referenced_by": [
+        "analytics-and-experiments"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/analytics/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/analytics/SKILL.md",
+      "referenced_by": [
+        "analytics-and-experiments"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/community-marketing/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/community-marketing/SKILL.md",
+      "referenced_by": [
+        "community-engagement"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/community-marketing/references/community-models.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/community-marketing/references/community-models.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/competitor-profiling/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/competitor-profiling/SKILL.md",
+      "referenced_by": [
+        "audience-research"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/content-strategy/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/content-strategy/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/content-strategy/references/content-distribution.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/content-strategy/references/content-distribution.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/content-strategy/references/headless-cms.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/content-strategy/references/headless-cms.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copy-editing/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copy-editing/SKILL.md",
+      "referenced_by": [
+        "copy-editor",
+        "fact-checker"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copy-editing/references/checklist.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copy-editing/references/checklist.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copy-editing/references/content-refresh.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copy-editing/references/content-refresh.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copy-editing/references/plain-english-alternatives.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copy-editing/references/plain-english-alternatives.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copywriting/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/SKILL.md",
+      "referenced_by": [
+        "copy-editor",
+        "hook-optimizer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copywriting/references/ai-tells.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/references/ai-tells.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copywriting/references/copy-frameworks.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/references/copy-frameworks.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/copywriting/references/natural-transitions.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/references/natural-transitions.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/customer-research/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/customer-research/SKILL.md",
+      "referenced_by": [
+        "audience-research"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/customer-research/references/interviews-and-surveys.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/customer-research/references/interviews-and-surveys.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/customer-research/references/source-guides.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/customer-research/references/source-guides.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/image/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/image/SKILL.md",
+      "referenced_by": [
+        "visual-asset-production"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/image/references/ai-image-prompting.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/image/references/ai-image-prompting.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/launch/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/launch/SKILL.md",
+      "referenced_by": [
+        "editorial-calendar"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-council/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-council/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-ideas/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-ideas/SKILL.md",
+      "referenced_by": [
+        "idea-pipeline"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-ideas/references/guerrilla-marketing.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-ideas/references/guerrilla-marketing.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-ideas/references/ideas-by-category.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-ideas/references/ideas-by-category.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-loops/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-loops/SKILL.md",
+      "referenced_by": [
+        "continuous-improvement",
+        "publishing-handoff",
+        "social-orchestrator"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-loops/references/loop-catalog.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-loops/references/loop-catalog.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-loops/references/loop-guardrails.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-loops/references/loop-guardrails.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-loops/references/loop-orchestration.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-loops/references/loop-orchestration.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-loops/references/loop-state.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-loops/references/loop-state.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-loops/references/loop-template.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-loops/references/loop-template.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-plan/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-plan/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/marketing-psychology/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/marketing-psychology/SKILL.md",
+      "referenced_by": [
+        "hook-optimizer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/product-marketing/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/product-marketing/SKILL.md",
+      "referenced_by": [
+        "context-manager"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/product-marketing/references/brand-voice.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/product-marketing/references/brand-voice.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/public-relations/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/public-relations/SKILL.md",
+      "referenced_by": [
+        "source-research"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/SKILL.md",
+      "referenced_by": [
+        "community-engagement",
+        "content-repurposer",
+        "instagram-caption-writer",
+        "linkedin-post-writer",
+        "platform-strategy",
+        "social-listening",
+        "x-post-writer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/carousel-frameworks.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/carousel-frameworks.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/listening-sources-template.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/listening-sources-template.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/listening.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/listening.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/platform-limits.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/platform-limits.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/platforms.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/platforms.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/post-templates.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/post-templates.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/reverse-engineering.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/reverse-engineering.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/short-form-video.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/short-form-video.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/social/references/x-algorithm.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/social/references/x-algorithm.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/video/SKILL.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/video/SKILL.md",
+      "referenced_by": [
+        "reel-scriptwriter",
+        "visual-asset-production"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/video/references/ai-video-prompting.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/video/references/ai-video-prompting.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/video/references/edit-anatomy.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/video/references/edit-anatomy.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "path": "skills/video/references/product-demo-recording.md",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/video/references/product-demo-recording.md",
+      "referenced_by": [],
+      "source_status": "ADDITIONAL_SPECIALIST_REFERENCE_PINNED_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/channels/community/community-forum/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/channels/community/community-forum/SKILL.md",
+      "referenced_by": [
+        "community-engagement"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/channels/owned/employee-generated-content/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/channels/owned/employee-generated-content/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/channels/partnerships/creator-program/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/channels/partnerships/creator-program/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/channels/partnerships/influencer-marketing/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/channels/partnerships/influencer-marketing/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/components/branding/brand-visual/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/components/branding/brand-visual/SKILL.md",
+      "referenced_by": [
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/content/copywriting/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/content/copywriting/SKILL.md",
+      "referenced_by": [
+        "copy-editor",
+        "hook-optimizer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/content/translation/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/content/translation/SKILL.md",
+      "referenced_by": [
+        "content-repurposer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/content/video/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/content/video/SKILL.md",
+      "referenced_by": [
+        "reel-scriptwriter"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/content/visual-content/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/content/visual-content/SKILL.md",
+      "referenced_by": [
+        "carousel-storyboard",
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/platforms/github/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/platforms/github/SKILL.md",
+      "referenced_by": [
+        "source-research"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/platforms/linkedin/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/platforms/linkedin/SKILL.md",
+      "referenced_by": [
+        "linkedin-post-writer",
+        "platform-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/platforms/x/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/platforms/x/SKILL.md",
+      "referenced_by": [
+        "platform-strategy",
+        "x-post-writer",
+        "x-thread-writer"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/seo/on-page/open-graph/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/seo/on-page/open-graph/SKILL.md",
+      "referenced_by": [
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/seo/on-page/twitter-cards/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/seo/on-page/twitter-cards/SKILL.md",
+      "referenced_by": [
+        "visual-brief"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/strategies/brand/brand-monitoring/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/strategies/brand/brand-monitoring/SKILL.md",
+      "referenced_by": [
+        "social-listening"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/strategies/brand/branding/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/strategies/brand/branding/SKILL.md",
+      "referenced_by": [
+        "content-strategy",
+        "context-manager"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/strategies/brand/content-marketing/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/strategies/brand/content-marketing/SKILL.md",
+      "referenced_by": [
+        "content-repurposer",
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/strategies/commercial/open-source/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/strategies/commercial/open-source/SKILL.md",
+      "referenced_by": [
+        "idea-pipeline"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/strategies/launch/cold-start/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/strategies/launch/cold-start/SKILL.md",
+      "referenced_by": [
+        "content-strategy"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/strategies/launch/indie-hacker/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/strategies/launch/indie-hacker/SKILL.md",
+      "referenced_by": [
+        "idea-pipeline"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    },
+    {
+      "repository": "kostja94/marketing-skills",
+      "commit": "b59bbdedd9b203ff731445e37dc11c3a14256547",
+      "path": "skills/strategies/launch/research-sources/SKILL.md",
+      "url": "https://github.com/kostja94/marketing-skills/blob/b59bbdedd9b203ff731445e37dc11c3a14256547/skills/strategies/launch/research-sources/SKILL.md",
+      "referenced_by": [
+        "source-research"
+      ],
+      "source_status": "PINNED_URL_NOT_BUNDLED"
+    }
+  ]
+}

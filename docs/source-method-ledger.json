@@ -1,0 +1,1506 @@
+{
+  "schema": 1,
+  "purpose": "Re-authored method provenance, not verbatim or comprehensive original-file import",
+  "methods": [
+    {
+      "skill": "social-orchestrator",
+      "method_id": "social-orchestrator-M01",
+      "method": "Restore-and-delta",
+      "origin_note": "Corey marketing-loops: state and idempotent run design",
+      "implementation_file": "skills/social-orchestrator/references/field-manual.md",
+      "source_map_file": "skills/social-orchestrator/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-orchestrator",
+      "method_id": "social-orchestrator-M02",
+      "method": "Intent/clarification boundary",
+      "origin_note": "BlackTwist context and Charles voice onboarding",
+      "implementation_file": "skills/social-orchestrator/references/field-manual.md",
+      "source_map_file": "skills/social-orchestrator/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-orchestrator",
+      "method_id": "social-orchestrator-M03",
+      "method": "Single-owner delegation",
+      "origin_note": "Corey content strategy and loop orchestration",
+      "implementation_file": "skills/social-orchestrator/references/field-manual.md",
+      "source_map_file": "skills/social-orchestrator/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-orchestrator",
+      "method_id": "social-orchestrator-M04",
+      "method": "Evidence-gated action graph",
+      "origin_note": "Anthropic social-content-engine staged publishing principles",
+      "implementation_file": "skills/social-orchestrator/references/field-manual.md",
+      "source_map_file": "skills/social-orchestrator/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-orchestrator",
+      "method_id": "social-orchestrator-M05",
+      "method": "Human-controlled handoff",
+      "origin_note": "Corey loop-guardrails; Anthropic publishing boundaries",
+      "implementation_file": "skills/social-orchestrator/references/field-manual.md",
+      "source_map_file": "skills/social-orchestrator/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-orchestrator",
+      "method_id": "social-orchestrator-M06",
+      "method": "Resumable no-loop trap",
+      "origin_note": "Corey marketing-loops cadence and stop conditions",
+      "implementation_file": "skills/social-orchestrator/references/field-manual.md",
+      "source_map_file": "skills/social-orchestrator/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "context-manager",
+      "method_id": "context-manager-M01",
+      "method": "Evidence tiering",
+      "origin_note": "Corey product-marketing proof and customer-language sections",
+      "implementation_file": "skills/context-manager/references/field-manual.md",
+      "source_map_file": "skills/context-manager/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "context-manager",
+      "method_id": "context-manager-M02",
+      "method": "Context reuse",
+      "origin_note": "BlackTwist social-media-context setup",
+      "implementation_file": "skills/context-manager/references/field-manual.md",
+      "source_map_file": "skills/context-manager/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "context-manager",
+      "method_id": "context-manager-M03",
+      "method": "Conflict resolution",
+      "origin_note": "Charlie voice-builder identity safeguards",
+      "implementation_file": "skills/context-manager/references/field-manual.md",
+      "source_map_file": "skills/context-manager/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "context-manager",
+      "method_id": "context-manager-M04",
+      "method": "Scope separation",
+      "origin_note": "Corey product-marketing structured context",
+      "implementation_file": "skills/context-manager/references/field-manual.md",
+      "source_map_file": "skills/context-manager/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "context-manager",
+      "method_id": "context-manager-M05",
+      "method": "Learnings promotion",
+      "origin_note": "Corey marketing-loops loop-state knowledge promotion",
+      "implementation_file": "skills/context-manager/references/field-manual.md",
+      "source_map_file": "skills/context-manager/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "voice-profiler",
+      "method_id": "voice-profiler-M01",
+      "method": "Consent and identity",
+      "origin_note": "Charlie voice-builder sample-based interview",
+      "implementation_file": "skills/voice-profiler/references/field-manual.md",
+      "source_map_file": "skills/voice-profiler/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "voice-profiler",
+      "method_id": "voice-profiler-M02",
+      "method": "Rhythm fingerprint",
+      "origin_note": "Charlie voice-builder detailed sample analysis",
+      "implementation_file": "skills/voice-profiler/references/field-manual.md",
+      "source_map_file": "skills/voice-profiler/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "voice-profiler",
+      "method_id": "voice-profiler-M03",
+      "method": "Open/close signatures",
+      "origin_note": "Charlie voice-builder voice.md sections",
+      "implementation_file": "skills/voice-profiler/references/field-manual.md",
+      "source_map_file": "skills/voice-profiler/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "voice-profiler",
+      "method_id": "voice-profiler-M04",
+      "method": "Context-sensitive voice",
+      "origin_note": "BlackTwist voice matching guidance",
+      "implementation_file": "skills/voice-profiler/references/field-manual.md",
+      "source_map_file": "skills/voice-profiler/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "voice-profiler",
+      "method_id": "voice-profiler-M05",
+      "method": "Verification trial",
+      "origin_note": "Charlie voice-builder confirmation handoff",
+      "implementation_file": "skills/voice-profiler/references/field-manual.md",
+      "source_map_file": "skills/voice-profiler/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "profile-auditor",
+      "method_id": "profile-auditor-M01",
+      "method": "Positioning inventory",
+      "origin_note": "Charlie profile-optimizer headline and featured audit",
+      "implementation_file": "skills/profile-auditor/references/field-manual.md",
+      "source_map_file": "skills/profile-auditor/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "profile-auditor",
+      "method_id": "profile-auditor-M02",
+      "method": "Value proposition",
+      "origin_note": "Charlie profile-optimizer headline/About writing",
+      "implementation_file": "skills/profile-auditor/references/field-manual.md",
+      "source_map_file": "skills/profile-auditor/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "profile-auditor",
+      "method_id": "profile-auditor-M03",
+      "method": "Platform-native paths",
+      "origin_note": "Kostja LinkedIn profile discovery + Charlie profile modules",
+      "implementation_file": "skills/profile-auditor/references/field-manual.md",
+      "source_map_file": "skills/profile-auditor/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "profile-auditor",
+      "method_id": "profile-auditor-M04",
+      "method": "Visual identity matching",
+      "origin_note": "Charlie profile-optimizer visual design brief",
+      "implementation_file": "skills/profile-auditor/references/field-manual.md",
+      "source_map_file": "skills/profile-auditor/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "profile-auditor",
+      "method_id": "profile-auditor-M05",
+      "method": "Conversion and privacy",
+      "origin_note": "Corey product-marketing positioning",
+      "implementation_file": "skills/profile-auditor/references/field-manual.md",
+      "source_map_file": "skills/profile-auditor/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "audience-research",
+      "method_id": "audience-research-M01",
+      "method": "Evidence before archetypes",
+      "origin_note": "Corey customer-research three-mode approach",
+      "implementation_file": "skills/audience-research/references/field-manual.md",
+      "source_map_file": "skills/audience-research/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "audience-research",
+      "method_id": "audience-research-M02",
+      "method": "Jobs and triggers",
+      "origin_note": "Corey customer-research extraction framework",
+      "implementation_file": "skills/audience-research/references/field-manual.md",
+      "source_map_file": "skills/audience-research/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "audience-research",
+      "method_id": "audience-research-M03",
+      "method": "Pattern synthesis",
+      "origin_note": "Corey customer-research synthesis",
+      "implementation_file": "skills/audience-research/references/field-manual.md",
+      "source_map_file": "skills/audience-research/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "audience-research",
+      "method_id": "audience-research-M04",
+      "method": "Competing views",
+      "origin_note": "Charlie niche-research theme synthesis",
+      "implementation_file": "skills/audience-research/references/field-manual.md",
+      "source_map_file": "skills/audience-research/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "audience-research",
+      "method_id": "audience-research-M05",
+      "method": "Content implications",
+      "origin_note": "Corey source-guides and customer-language strategy",
+      "implementation_file": "skills/audience-research/references/field-manual.md",
+      "source_map_file": "skills/audience-research/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "source-research",
+      "method_id": "source-research-M01",
+      "method": "Research question discipline",
+      "origin_note": "Kostja research-sources categorization",
+      "implementation_file": "skills/source-research/references/field-manual.md",
+      "source_map_file": "skills/source-research/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "source-research",
+      "method_id": "source-research-M02",
+      "method": "Freshness gates",
+      "origin_note": "Charlie niche-research date screening, adapted",
+      "implementation_file": "skills/source-research/references/field-manual.md",
+      "source_map_file": "skills/source-research/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "source-research",
+      "method_id": "source-research-M03",
+      "method": "Claim evidence ledger",
+      "origin_note": "Corey customer-research raw evidence handling",
+      "implementation_file": "skills/source-research/references/field-manual.md",
+      "source_map_file": "skills/source-research/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "source-research",
+      "method_id": "source-research-M04",
+      "method": "Platform verification",
+      "origin_note": "Kostja platform sources, corrected against primary docs",
+      "implementation_file": "skills/source-research/references/field-manual.md",
+      "source_map_file": "skills/source-research/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "source-research",
+      "method_id": "source-research-M05",
+      "method": "Research-to-brief handoff",
+      "origin_note": "BlackTwist research-to-content pipeline",
+      "implementation_file": "skills/source-research/references/field-manual.md",
+      "source_map_file": "skills/source-research/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-listening",
+      "method_id": "social-listening-M01",
+      "method": "Source selection",
+      "origin_note": "Corey social/listening source template",
+      "implementation_file": "skills/social-listening/references/field-manual.md",
+      "source_map_file": "skills/social-listening/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-listening",
+      "method_id": "social-listening-M02",
+      "method": "Triage scoring",
+      "origin_note": "Corey social/listening triage rubric",
+      "implementation_file": "skills/social-listening/references/field-manual.md",
+      "source_map_file": "skills/social-listening/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-listening",
+      "method_id": "social-listening-M03",
+      "method": "Safe interaction boundary",
+      "origin_note": "Corey marketing-loops guardrails",
+      "implementation_file": "skills/social-listening/references/field-manual.md",
+      "source_map_file": "skills/social-listening/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-listening",
+      "method_id": "social-listening-M04",
+      "method": "Signal consolidation",
+      "origin_note": "Kostja brand-monitoring and Corey listening",
+      "implementation_file": "skills/social-listening/references/field-manual.md",
+      "source_map_file": "skills/social-listening/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "social-listening",
+      "method_id": "social-listening-M05",
+      "method": "Noise control",
+      "origin_note": "Corey loop-state idempotency and bail-outs",
+      "implementation_file": "skills/social-listening/references/field-manual.md",
+      "source_map_file": "skills/social-listening/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-strategy",
+      "method_id": "content-strategy-M01",
+      "method": "Goal-to-behavior map",
+      "origin_note": "BlackTwist content-strategy discovery",
+      "implementation_file": "skills/content-strategy/references/field-manual.md",
+      "source_map_file": "skills/content-strategy/references/source-map.md",
+      "upstream_source_count": 11,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-strategy",
+      "method_id": "content-strategy-M02",
+      "method": "Pillars and clusters",
+      "origin_note": "BlackTwist content-strategy pillar and topic cluster",
+      "implementation_file": "skills/content-strategy/references/field-manual.md",
+      "source_map_file": "skills/content-strategy/references/source-map.md",
+      "upstream_source_count": 11,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-strategy",
+      "method_id": "content-strategy-M03",
+      "method": "Searchable/shareable distinction",
+      "origin_note": "Corey content-strategy searchable versus shareable",
+      "implementation_file": "skills/content-strategy/references/field-manual.md",
+      "source_map_file": "skills/content-strategy/references/source-map.md",
+      "upstream_source_count": 11,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-strategy",
+      "method_id": "content-strategy-M04",
+      "method": "Differentiation test",
+      "origin_note": "Kostja branding and BlackTwist differentiation",
+      "implementation_file": "skills/content-strategy/references/field-manual.md",
+      "source_map_file": "skills/content-strategy/references/source-map.md",
+      "upstream_source_count": 11,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-strategy",
+      "method_id": "content-strategy-M05",
+      "method": "Production system",
+      "origin_note": "Corey distribution and BlackTwist capacity planning",
+      "implementation_file": "skills/content-strategy/references/field-manual.md",
+      "source_map_file": "skills/content-strategy/references/source-map.md",
+      "upstream_source_count": 11,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-strategy",
+      "method_id": "content-strategy-M06",
+      "method": "Learning cadence",
+      "origin_note": "Corey loops and BlackTwist performance analysis",
+      "implementation_file": "skills/content-strategy/references/field-manual.md",
+      "source_map_file": "skills/content-strategy/references/source-map.md",
+      "upstream_source_count": 11,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "idea-pipeline",
+      "method_id": "idea-pipeline-M01",
+      "method": "Eight-way angle expansion",
+      "origin_note": "Charlie content-matrix",
+      "implementation_file": "skills/idea-pipeline/references/field-manual.md",
+      "source_map_file": "skills/idea-pipeline/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "idea-pipeline",
+      "method_id": "idea-pipeline-M02",
+      "method": "Idea record",
+      "origin_note": "Corey marketing-ideas classification",
+      "implementation_file": "skills/idea-pipeline/references/field-manual.md",
+      "source_map_file": "skills/idea-pipeline/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "idea-pipeline",
+      "method_id": "idea-pipeline-M03",
+      "method": "Priority score",
+      "origin_note": "BlackTwist content-pattern-analyzer and strategy",
+      "implementation_file": "skills/idea-pipeline/references/field-manual.md",
+      "source_map_file": "skills/idea-pipeline/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "idea-pipeline",
+      "method_id": "idea-pipeline-M04",
+      "method": "Audience-language sourcing",
+      "origin_note": "Corey customer-research",
+      "implementation_file": "skills/idea-pipeline/references/field-manual.md",
+      "source_map_file": "skills/idea-pipeline/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "idea-pipeline",
+      "method_id": "idea-pipeline-M05",
+      "method": "Idea lifecycle",
+      "origin_note": "Corey marketing-loops state discipline",
+      "implementation_file": "skills/idea-pipeline/references/field-manual.md",
+      "source_map_file": "skills/idea-pipeline/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "platform-strategy",
+      "method_id": "platform-strategy-M01",
+      "method": "Surface classification",
+      "origin_note": "BlackTwist platform-strategy and Kostja platform guides",
+      "implementation_file": "skills/platform-strategy/references/field-manual.md",
+      "source_map_file": "skills/platform-strategy/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "platform-strategy",
+      "method_id": "platform-strategy-M02",
+      "method": "X retrieval/relevance",
+      "origin_note": "xAI x-algorithm open-source README August 2026",
+      "implementation_file": "skills/platform-strategy/references/field-manual.md",
+      "source_map_file": "skills/platform-strategy/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "platform-strategy",
+      "method_id": "platform-strategy-M03",
+      "method": "LinkedIn authenticity",
+      "origin_note": "LinkedIn official feed updates March–May 2026",
+      "implementation_file": "skills/platform-strategy/references/field-manual.md",
+      "source_map_file": "skills/platform-strategy/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "platform-strategy",
+      "method_id": "platform-strategy-M04",
+      "method": "Instagram creative first",
+      "origin_note": "Meta Instagram system card and BlackTwist caption writer",
+      "implementation_file": "skills/platform-strategy/references/field-manual.md",
+      "source_map_file": "skills/platform-strategy/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "platform-strategy",
+      "method_id": "platform-strategy-M05",
+      "method": "Volatile spec register",
+      "origin_note": "Kostja x/linkedin specs and Corey social platform-limits",
+      "implementation_file": "skills/platform-strategy/references/field-manual.md",
+      "source_map_file": "skills/platform-strategy/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "platform-strategy",
+      "method_id": "platform-strategy-M06",
+      "method": "Ethical experimentation",
+      "origin_note": "Corey social and marketing-loops",
+      "implementation_file": "skills/platform-strategy/references/field-manual.md",
+      "source_map_file": "skills/platform-strategy/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "editorial-calendar",
+      "method_id": "editorial-calendar-M01",
+      "method": "Standing calendar",
+      "origin_note": "Anthropic social-content-engine calendar reference",
+      "implementation_file": "skills/editorial-calendar/references/field-manual.md",
+      "source_map_file": "skills/editorial-calendar/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "editorial-calendar",
+      "method_id": "editorial-calendar-M02",
+      "method": "Channel fit",
+      "origin_note": "BlackTwist content-calendar capacity and flexibility",
+      "implementation_file": "skills/editorial-calendar/references/field-manual.md",
+      "source_map_file": "skills/editorial-calendar/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "editorial-calendar",
+      "method_id": "editorial-calendar-M03",
+      "method": "Batch economics",
+      "origin_note": "BlackTwist content-calendar batching",
+      "implementation_file": "skills/editorial-calendar/references/field-manual.md",
+      "source_map_file": "skills/editorial-calendar/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "editorial-calendar",
+      "method_id": "editorial-calendar-M04",
+      "method": "Calendar status semantics",
+      "origin_note": "Anthropic publishing staging reference",
+      "implementation_file": "skills/editorial-calendar/references/field-manual.md",
+      "source_map_file": "skills/editorial-calendar/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "editorial-calendar",
+      "method_id": "editorial-calendar-M05",
+      "method": "Approval gate",
+      "origin_note": "Corey marketing-loops publish guardrails",
+      "implementation_file": "skills/editorial-calendar/references/field-manual.md",
+      "source_map_file": "skills/editorial-calendar/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "editorial-calendar",
+      "method_id": "editorial-calendar-M06",
+      "method": "Rolling review",
+      "origin_note": "Anthropic calendar extension and gotchas",
+      "implementation_file": "skills/editorial-calendar/references/field-manual.md",
+      "source_map_file": "skills/editorial-calendar/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "hook-optimizer",
+      "method_id": "hook-optimizer-M01",
+      "method": "True central promise",
+      "origin_note": "BlackTwist hook-writer promise alignment",
+      "implementation_file": "skills/hook-optimizer/references/field-manual.md",
+      "source_map_file": "skills/hook-optimizer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "hook-optimizer",
+      "method_id": "hook-optimizer-M02",
+      "method": "Pattern diversity",
+      "origin_note": "BlackTwist nine hook families",
+      "implementation_file": "skills/hook-optimizer/references/field-manual.md",
+      "source_map_file": "skills/hook-optimizer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "hook-optimizer",
+      "method_id": "hook-optimizer-M03",
+      "method": "Six-variety test",
+      "origin_note": "Charlie hook-generator variations",
+      "implementation_file": "skills/hook-optimizer/references/field-manual.md",
+      "source_map_file": "skills/hook-optimizer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "hook-optimizer",
+      "method_id": "hook-optimizer-M04",
+      "method": "Platform adaption",
+      "origin_note": "Kostja and BlackTwist platform hook approaches",
+      "implementation_file": "skills/hook-optimizer/references/field-manual.md",
+      "source_map_file": "skills/hook-optimizer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "hook-optimizer",
+      "method_id": "hook-optimizer-M05",
+      "method": "Integrity sweep",
+      "origin_note": "Corey social no-AI-tells and copywriting",
+      "implementation_file": "skills/hook-optimizer/references/field-manual.md",
+      "source_map_file": "skills/hook-optimizer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-post-writer",
+      "method_id": "x-post-writer-M01",
+      "method": "One-idea contract",
+      "origin_note": "BlackTwist post-writer short-post structure",
+      "implementation_file": "skills/x-post-writer/references/field-manual.md",
+      "source_map_file": "skills/x-post-writer/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-post-writer",
+      "method_id": "x-post-writer-M02",
+      "method": "Format selection",
+      "origin_note": "Kostja X output and thread guidance",
+      "implementation_file": "skills/x-post-writer/references/field-manual.md",
+      "source_map_file": "skills/x-post-writer/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-post-writer",
+      "method_id": "x-post-writer-M03",
+      "method": "Full reader value",
+      "origin_note": "Corey social post templates and no-AI-tells",
+      "implementation_file": "skills/x-post-writer/references/field-manual.md",
+      "source_map_file": "skills/x-post-writer/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-post-writer",
+      "method_id": "x-post-writer-M04",
+      "method": "Evidence-safe opening",
+      "origin_note": "BlackTwist hook-writer and xAI open-source README",
+      "implementation_file": "skills/x-post-writer/references/field-manual.md",
+      "source_map_file": "skills/x-post-writer/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-post-writer",
+      "method_id": "x-post-writer-M05",
+      "method": "Conversation logic",
+      "origin_note": "Corey social engagement practices",
+      "implementation_file": "skills/x-post-writer/references/field-manual.md",
+      "source_map_file": "skills/x-post-writer/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-post-writer",
+      "method_id": "x-post-writer-M06",
+      "method": "Delivery validation",
+      "origin_note": "Kostja X character limits and output format",
+      "implementation_file": "skills/x-post-writer/references/field-manual.md",
+      "source_map_file": "skills/x-post-writer/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-thread-writer",
+      "method_id": "x-thread-writer-M01",
+      "method": "Architecture choice",
+      "origin_note": "BlackTwist thread-writer format library",
+      "implementation_file": "skills/x-thread-writer/references/field-manual.md",
+      "source_map_file": "skills/x-thread-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-thread-writer",
+      "method_id": "x-thread-writer-M02",
+      "method": "Opening variants",
+      "origin_note": "BlackTwist thread-writer hook integration",
+      "implementation_file": "skills/x-thread-writer/references/field-manual.md",
+      "source_map_file": "skills/x-thread-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-thread-writer",
+      "method_id": "x-thread-writer-M03",
+      "method": "One beat per post",
+      "origin_note": "BlackTwist body post pacing",
+      "implementation_file": "skills/x-thread-writer/references/field-manual.md",
+      "source_map_file": "skills/x-thread-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-thread-writer",
+      "method_id": "x-thread-writer-M04",
+      "method": "Source alignment",
+      "origin_note": "Kostja X thread output and Corey social templates",
+      "implementation_file": "skills/x-thread-writer/references/field-manual.md",
+      "source_map_file": "skills/x-thread-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-thread-writer",
+      "method_id": "x-thread-writer-M05",
+      "method": "Closer without pressure",
+      "origin_note": "BlackTwist closer framework",
+      "implementation_file": "skills/x-thread-writer/references/field-manual.md",
+      "source_map_file": "skills/x-thread-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "x-thread-writer",
+      "method_id": "x-thread-writer-M06",
+      "method": "Thread QA",
+      "origin_note": "BlackTwist pre-publish thread checklist",
+      "implementation_file": "skills/x-thread-writer/references/field-manual.md",
+      "source_map_file": "skills/x-thread-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "linkedin-post-writer",
+      "method_id": "linkedin-post-writer-M01",
+      "method": "Professional POV",
+      "origin_note": "Charlie post-writer and Kostja LinkedIn",
+      "implementation_file": "skills/linkedin-post-writer/references/field-manual.md",
+      "source_map_file": "skills/linkedin-post-writer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "linkedin-post-writer",
+      "method_id": "linkedin-post-writer-M02",
+      "method": "Natural narrative",
+      "origin_note": "Corey social storytelling and Charlie post-formatter",
+      "implementation_file": "skills/linkedin-post-writer/references/field-manual.md",
+      "source_map_file": "skills/linkedin-post-writer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "linkedin-post-writer",
+      "method_id": "linkedin-post-writer-M03",
+      "method": "Visible lead",
+      "origin_note": "Kostja LinkedIn first line; BlackTwist post-writer",
+      "implementation_file": "skills/linkedin-post-writer/references/field-manual.md",
+      "source_map_file": "skills/linkedin-post-writer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "linkedin-post-writer",
+      "method_id": "linkedin-post-writer-M04",
+      "method": "Proof and qualification",
+      "origin_note": "Corey content-strategy and copy-editing prove-it sweep",
+      "implementation_file": "skills/linkedin-post-writer/references/field-manual.md",
+      "source_map_file": "skills/linkedin-post-writer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "linkedin-post-writer",
+      "method_id": "linkedin-post-writer-M05",
+      "method": "Authenticity protection",
+      "origin_note": "LinkedIn official May 2026 update",
+      "implementation_file": "skills/linkedin-post-writer/references/field-manual.md",
+      "source_map_file": "skills/linkedin-post-writer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "linkedin-post-writer",
+      "method_id": "linkedin-post-writer-M06",
+      "method": "Format/reader distinction",
+      "origin_note": "Kostja LinkedIn post types and Corey social platform guide",
+      "implementation_file": "skills/linkedin-post-writer/references/field-manual.md",
+      "source_map_file": "skills/linkedin-post-writer/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "instagram-caption-writer",
+      "method_id": "instagram-caption-writer-M01",
+      "method": "Visual-first check",
+      "origin_note": "BlackTwist caption-writer visual role",
+      "implementation_file": "skills/instagram-caption-writer/references/field-manual.md",
+      "source_map_file": "skills/instagram-caption-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "instagram-caption-writer",
+      "method_id": "instagram-caption-writer-M02",
+      "method": "First-line promise",
+      "origin_note": "BlackTwist Instagram caption guidance, adapted",
+      "implementation_file": "skills/instagram-caption-writer/references/field-manual.md",
+      "source_map_file": "skills/instagram-caption-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "instagram-caption-writer",
+      "method_id": "instagram-caption-writer-M03",
+      "method": "Format-tailored captions",
+      "origin_note": "BlackTwist caption formats and Corey short-form",
+      "implementation_file": "skills/instagram-caption-writer/references/field-manual.md",
+      "source_map_file": "skills/instagram-caption-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "instagram-caption-writer",
+      "method_id": "instagram-caption-writer-M04",
+      "method": "Searchability without stuffing",
+      "origin_note": "Kostja platform guidance and Meta system card",
+      "implementation_file": "skills/instagram-caption-writer/references/field-manual.md",
+      "source_map_file": "skills/instagram-caption-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "instagram-caption-writer",
+      "method_id": "instagram-caption-writer-M05",
+      "method": "CTA that respects readers",
+      "origin_note": "Corey social community principles",
+      "implementation_file": "skills/instagram-caption-writer/references/field-manual.md",
+      "source_map_file": "skills/instagram-caption-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "instagram-caption-writer",
+      "method_id": "instagram-caption-writer-M06",
+      "method": "Media accountability",
+      "origin_note": "Charlie graphic-designer visual completion state",
+      "implementation_file": "skills/instagram-caption-writer/references/field-manual.md",
+      "source_map_file": "skills/instagram-caption-writer/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "carousel-storyboard",
+      "method_id": "carousel-storyboard-M01",
+      "method": "Narrative skeleton",
+      "origin_note": "BlackTwist carousel-writer structures",
+      "implementation_file": "skills/carousel-storyboard/references/field-manual.md",
+      "source_map_file": "skills/carousel-storyboard/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "carousel-storyboard",
+      "method_id": "carousel-storyboard-M02",
+      "method": "Slide unit",
+      "origin_note": "BlackTwist carousel body guidance",
+      "implementation_file": "skills/carousel-storyboard/references/field-manual.md",
+      "source_map_file": "skills/carousel-storyboard/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "carousel-storyboard",
+      "method_id": "carousel-storyboard-M03",
+      "method": "Five frameworks",
+      "origin_note": "Corey social carousel-frameworks reference",
+      "implementation_file": "skills/carousel-storyboard/references/field-manual.md",
+      "source_map_file": "skills/carousel-storyboard/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "carousel-storyboard",
+      "method_id": "carousel-storyboard-M04",
+      "method": "Proof per slide",
+      "origin_note": "Corey copy-editing prove-it and source-research",
+      "implementation_file": "skills/carousel-storyboard/references/field-manual.md",
+      "source_map_file": "skills/carousel-storyboard/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "carousel-storyboard",
+      "method_id": "carousel-storyboard-M05",
+      "method": "Native package",
+      "origin_note": "Kostja LinkedIn document post and BlackTwist platform rules",
+      "implementation_file": "skills/carousel-storyboard/references/field-manual.md",
+      "source_map_file": "skills/carousel-storyboard/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "carousel-storyboard",
+      "method_id": "carousel-storyboard-M06",
+      "method": "Visual QA",
+      "origin_note": "Charlie graphic-designer and Corey visual workflow",
+      "implementation_file": "skills/carousel-storyboard/references/field-manual.md",
+      "source_map_file": "skills/carousel-storyboard/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "reel-scriptwriter",
+      "method_id": "reel-scriptwriter-M01",
+      "method": "Source and rights",
+      "origin_note": "Charlie reels-scripting reference analysis, safety-adapted",
+      "implementation_file": "skills/reel-scriptwriter/references/field-manual.md",
+      "source_map_file": "skills/reel-scriptwriter/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "reel-scriptwriter",
+      "method_id": "reel-scriptwriter-M02",
+      "method": "Timed architecture",
+      "origin_note": "Charlie reels-scripting timed script",
+      "implementation_file": "skills/reel-scriptwriter/references/field-manual.md",
+      "source_map_file": "skills/reel-scriptwriter/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "reel-scriptwriter",
+      "method_id": "reel-scriptwriter-M03",
+      "method": "Production columns",
+      "origin_note": "Corey social short-form-video and Corey video",
+      "implementation_file": "skills/reel-scriptwriter/references/field-manual.md",
+      "source_map_file": "skills/reel-scriptwriter/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "reel-scriptwriter",
+      "method_id": "reel-scriptwriter-M04",
+      "method": "Originality and voice",
+      "origin_note": "Charlie reels-scripting analysis and voice requirements",
+      "implementation_file": "skills/reel-scriptwriter/references/field-manual.md",
+      "source_map_file": "skills/reel-scriptwriter/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "reel-scriptwriter",
+      "method_id": "reel-scriptwriter-M05",
+      "method": "Retention through substance",
+      "origin_note": "Corey video editing references",
+      "implementation_file": "skills/reel-scriptwriter/references/field-manual.md",
+      "source_map_file": "skills/reel-scriptwriter/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "reel-scriptwriter",
+      "method_id": "reel-scriptwriter-M06",
+      "method": "QA and disclosure",
+      "origin_note": "Corey social short-form-video",
+      "implementation_file": "skills/reel-scriptwriter/references/field-manual.md",
+      "source_map_file": "skills/reel-scriptwriter/references/source-map.md",
+      "upstream_source_count": 3,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-brief",
+      "method_id": "visual-brief-M01",
+      "method": "Message extraction",
+      "origin_note": "Charlie graphic-designer read-the-post first",
+      "implementation_file": "skills/visual-brief/references/field-manual.md",
+      "source_map_file": "skills/visual-brief/references/source-map.md",
+      "upstream_source_count": 8,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-brief",
+      "method_id": "visual-brief-M02",
+      "method": "Design variants",
+      "origin_note": "Charlie graphic-designer HTML/CSS versus image-prompt paths",
+      "implementation_file": "skills/visual-brief/references/field-manual.md",
+      "source_map_file": "skills/visual-brief/references/source-map.md",
+      "upstream_source_count": 8,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-brief",
+      "method_id": "visual-brief-M03",
+      "method": "Brand system",
+      "origin_note": "Kostja brand-visual and Corey image references",
+      "implementation_file": "skills/visual-brief/references/field-manual.md",
+      "source_map_file": "skills/visual-brief/references/source-map.md",
+      "upstream_source_count": 8,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-brief",
+      "method_id": "visual-brief-M04",
+      "method": "Asset contract",
+      "origin_note": "Charlie Gemini carousel and infographic briefs",
+      "implementation_file": "skills/visual-brief/references/field-manual.md",
+      "source_map_file": "skills/visual-brief/references/source-map.md",
+      "upstream_source_count": 8,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-brief",
+      "method_id": "visual-brief-M05",
+      "method": "Approval and actual render",
+      "origin_note": "Charlie visual completion gates",
+      "implementation_file": "skills/visual-brief/references/field-manual.md",
+      "source_map_file": "skills/visual-brief/references/source-map.md",
+      "upstream_source_count": 8,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-asset-production",
+      "method_id": "visual-asset-production-M01",
+      "method": "Backend discovery",
+      "origin_note": "Charlie graphic-designer tool paths and Baoyu backend discovery",
+      "implementation_file": "skills/visual-asset-production/references/field-manual.md",
+      "source_map_file": "skills/visual-asset-production/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-asset-production",
+      "method_id": "visual-asset-production-M02",
+      "method": "Semantic input",
+      "origin_note": "Charlie Gemini infographic source-content setup",
+      "implementation_file": "skills/visual-asset-production/references/field-manual.md",
+      "source_map_file": "skills/visual-asset-production/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-asset-production",
+      "method_id": "visual-asset-production-M03",
+      "method": "Structured layout first",
+      "origin_note": "Charlie graphic-designer HTML/CSS or generative mode",
+      "implementation_file": "skills/visual-asset-production/references/field-manual.md",
+      "source_map_file": "skills/visual-asset-production/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-asset-production",
+      "method_id": "visual-asset-production-M04",
+      "method": "Verification loop",
+      "origin_note": "Corey image workflows and Baoyu visual QA",
+      "implementation_file": "skills/visual-asset-production/references/field-manual.md",
+      "source_map_file": "skills/visual-asset-production/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "visual-asset-production",
+      "method_id": "visual-asset-production-M05",
+      "method": "Status honesty",
+      "origin_note": "Charlie visual completion state policy",
+      "implementation_file": "skills/visual-asset-production/references/field-manual.md",
+      "source_map_file": "skills/visual-asset-production/references/source-map.md",
+      "upstream_source_count": 5,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-repurposer",
+      "method_id": "content-repurposer-M01",
+      "method": "Content atoms",
+      "origin_note": "Corey social content atoms and BlackTwist repurposing",
+      "implementation_file": "skills/content-repurposer/references/field-manual.md",
+      "source_map_file": "skills/content-repurposer/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-repurposer",
+      "method_id": "content-repurposer-M02",
+      "method": "Standalone quality",
+      "origin_note": "BlackTwist repurposer process",
+      "implementation_file": "skills/content-repurposer/references/field-manual.md",
+      "source_map_file": "skills/content-repurposer/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-repurposer",
+      "method_id": "content-repurposer-M03",
+      "method": "Angle differentiation",
+      "origin_note": "BlackTwist repurposing matrix and Corey distribution",
+      "implementation_file": "skills/content-repurposer/references/field-manual.md",
+      "source_map_file": "skills/content-repurposer/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-repurposer",
+      "method_id": "content-repurposer-M04",
+      "method": "Source integrity",
+      "origin_note": "Corey copy-editing and research",
+      "implementation_file": "skills/content-repurposer/references/field-manual.md",
+      "source_map_file": "skills/content-repurposer/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "content-repurposer",
+      "method_id": "content-repurposer-M05",
+      "method": "Tracking and scheduling",
+      "origin_note": "Corey loops idempotency, BlackTwist leverage ranking",
+      "implementation_file": "skills/content-repurposer/references/field-manual.md",
+      "source_map_file": "skills/content-repurposer/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "fact-checker",
+      "method_id": "fact-checker-M01",
+      "method": "Atomic claim scan",
+      "origin_note": "Corey copy-editing prove-it sweep",
+      "implementation_file": "skills/fact-checker/references/field-manual.md",
+      "source_map_file": "skills/fact-checker/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "fact-checker",
+      "method_id": "fact-checker-M02",
+      "method": "Verdict specificity",
+      "origin_note": "Corey customer-research source quality",
+      "implementation_file": "skills/fact-checker/references/field-manual.md",
+      "source_map_file": "skills/fact-checker/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "fact-checker",
+      "method_id": "fact-checker-M03",
+      "method": "Citation precision",
+      "origin_note": "Kostja research-sources and Corey raw sources",
+      "implementation_file": "skills/fact-checker/references/field-manual.md",
+      "source_map_file": "skills/fact-checker/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "fact-checker",
+      "method_id": "fact-checker-M04",
+      "method": "Safer revisions",
+      "origin_note": "BlackTwist post-writer factual checks",
+      "implementation_file": "skills/fact-checker/references/field-manual.md",
+      "source_map_file": "skills/fact-checker/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "fact-checker",
+      "method_id": "fact-checker-M05",
+      "method": "Edit invalidation",
+      "origin_note": "Corey loop-state and current local state contract",
+      "implementation_file": "skills/fact-checker/references/field-manual.md",
+      "source_map_file": "skills/fact-checker/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "copy-editor",
+      "method_id": "copy-editor-M01",
+      "method": "Seven focused sweeps",
+      "origin_note": "Corey copy-editing seven sweeps",
+      "implementation_file": "skills/copy-editor/references/field-manual.md",
+      "source_map_file": "skills/copy-editor/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "copy-editor",
+      "method_id": "copy-editor-M02",
+      "method": "Voice preservation",
+      "origin_note": "Charlie voice-builder and Corey brand voice",
+      "implementation_file": "skills/copy-editor/references/field-manual.md",
+      "source_map_file": "skills/copy-editor/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "copy-editor",
+      "method_id": "copy-editor-M03",
+      "method": "AI-pattern cleanup",
+      "origin_note": "Corey copywriting AI-tells reference",
+      "implementation_file": "skills/copy-editor/references/field-manual.md",
+      "source_map_file": "skills/copy-editor/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "copy-editor",
+      "method_id": "copy-editor-M04",
+      "method": "Benefit bridge",
+      "origin_note": "Corey copy-editing so-what sweep",
+      "implementation_file": "skills/copy-editor/references/field-manual.md",
+      "source_map_file": "skills/copy-editor/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "copy-editor",
+      "method_id": "copy-editor-M05",
+      "method": "Facts and approval reset",
+      "origin_note": "Corey copy-editing prove-it sweep",
+      "implementation_file": "skills/copy-editor/references/field-manual.md",
+      "source_map_file": "skills/copy-editor/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "post-qa",
+      "method_id": "post-qa-M01",
+      "method": "Hard gates",
+      "origin_note": "Charlie post-scorer readiness; Corey source safety",
+      "implementation_file": "skills/post-qa/references/field-manual.md",
+      "source_map_file": "skills/post-qa/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "post-qa",
+      "method_id": "post-qa-M02",
+      "method": "Scoring dimensions",
+      "origin_note": "Charlie post-scorer five dimensions",
+      "implementation_file": "skills/post-qa/references/field-manual.md",
+      "source_map_file": "skills/post-qa/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "post-qa",
+      "method_id": "post-qa-M03",
+      "method": "Data provenance",
+      "origin_note": "Charlie post-scorer performance-data check",
+      "implementation_file": "skills/post-qa/references/field-manual.md",
+      "source_map_file": "skills/post-qa/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "post-qa",
+      "method_id": "post-qa-M04",
+      "method": "Reader simulation",
+      "origin_note": "Corey social reader-value emphasis",
+      "implementation_file": "skills/post-qa/references/field-manual.md",
+      "source_map_file": "skills/post-qa/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "post-qa",
+      "method_id": "post-qa-M05",
+      "method": "Exact-version signoff",
+      "origin_note": "Corey marketing-loops state discipline",
+      "implementation_file": "skills/post-qa/references/field-manual.md",
+      "source_map_file": "skills/post-qa/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "community-engagement",
+      "method_id": "community-engagement-M01",
+      "method": "Context before response",
+      "origin_note": "Corey social engagement strategy",
+      "implementation_file": "skills/community-engagement/references/field-manual.md",
+      "source_map_file": "skills/community-engagement/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "community-engagement",
+      "method_id": "community-engagement-M02",
+      "method": "Value over bait",
+      "origin_note": "Charlie pinned-comment and Corey social",
+      "implementation_file": "skills/community-engagement/references/field-manual.md",
+      "source_map_file": "skills/community-engagement/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "community-engagement",
+      "method_id": "community-engagement-M03",
+      "method": "Priority triage",
+      "origin_note": "Corey community-marketing triage",
+      "implementation_file": "skills/community-engagement/references/field-manual.md",
+      "source_map_file": "skills/community-engagement/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "community-engagement",
+      "method_id": "community-engagement-M04",
+      "method": "Human approval",
+      "origin_note": "Corey loops publishing guardrails",
+      "implementation_file": "skills/community-engagement/references/field-manual.md",
+      "source_map_file": "skills/community-engagement/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "community-engagement",
+      "method_id": "community-engagement-M05",
+      "method": "Feedback to ideas",
+      "origin_note": "Corey customer-research source synthesis",
+      "implementation_file": "skills/community-engagement/references/field-manual.md",
+      "source_map_file": "skills/community-engagement/references/source-map.md",
+      "upstream_source_count": 4,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "publishing-handoff",
+      "method_id": "publishing-handoff-M01",
+      "method": "Package identity",
+      "origin_note": "Anthropic social-content-engine publishing handoff",
+      "implementation_file": "skills/publishing-handoff/references/field-manual.md",
+      "source_map_file": "skills/publishing-handoff/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "publishing-handoff",
+      "method_id": "publishing-handoff-M02",
+      "method": "Approval separation",
+      "origin_note": "Corey loop-guardrails",
+      "implementation_file": "skills/publishing-handoff/references/field-manual.md",
+      "source_map_file": "skills/publishing-handoff/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "publishing-handoff",
+      "method_id": "publishing-handoff-M03",
+      "method": "Preflight live limitations",
+      "origin_note": "Kostja platform output rules",
+      "implementation_file": "skills/publishing-handoff/references/field-manual.md",
+      "source_map_file": "skills/publishing-handoff/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "publishing-handoff",
+      "method_id": "publishing-handoff-M04",
+      "method": "Idempotent staging",
+      "origin_note": "Corey loop-state idempotency",
+      "implementation_file": "skills/publishing-handoff/references/field-manual.md",
+      "source_map_file": "skills/publishing-handoff/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "publishing-handoff",
+      "method_id": "publishing-handoff-M05",
+      "method": "Truthful outcome",
+      "origin_note": "Anthropic publishing reference and current socialctl semantics",
+      "implementation_file": "skills/publishing-handoff/references/field-manual.md",
+      "source_map_file": "skills/publishing-handoff/references/source-map.md",
+      "upstream_source_count": 1,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "analytics-and-experiments",
+      "method_id": "analytics-and-experiments-M01",
+      "method": "Schema inspect",
+      "origin_note": "Charlie analytics-dashboard export inspection",
+      "implementation_file": "skills/analytics-and-experiments/references/field-manual.md",
+      "source_map_file": "skills/analytics-and-experiments/references/source-map.md",
+      "upstream_source_count": 6,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "analytics-and-experiments",
+      "method_id": "analytics-and-experiments-M02",
+      "method": "Normalization",
+      "origin_note": "BlackTwist performance-analyzer metric framework",
+      "implementation_file": "skills/analytics-and-experiments/references/field-manual.md",
+      "source_map_file": "skills/analytics-and-experiments/references/source-map.md",
+      "upstream_source_count": 6,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "analytics-and-experiments",
+      "method_id": "analytics-and-experiments-M03",
+      "method": "Segment instead of slogans",
+      "origin_note": "BlackTwist content-pattern-analyzer dimensions",
+      "implementation_file": "skills/analytics-and-experiments/references/field-manual.md",
+      "source_map_file": "skills/analytics-and-experiments/references/source-map.md",
+      "upstream_source_count": 6,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "analytics-and-experiments",
+      "method_id": "analytics-and-experiments-M04",
+      "method": "Experiment charter",
+      "origin_note": "Corey ab-testing and marketing-loops",
+      "implementation_file": "skills/analytics-and-experiments/references/field-manual.md",
+      "source_map_file": "skills/analytics-and-experiments/references/source-map.md",
+      "upstream_source_count": 6,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "analytics-and-experiments",
+      "method_id": "analytics-and-experiments-M05",
+      "method": "Report learning",
+      "origin_note": "Charlie post-scorer measured versus editorial",
+      "implementation_file": "skills/analytics-and-experiments/references/field-manual.md",
+      "source_map_file": "skills/analytics-and-experiments/references/source-map.md",
+      "upstream_source_count": 6,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "continuous-improvement",
+      "method_id": "continuous-improvement-M01",
+      "method": "Regular review",
+      "origin_note": "Corey marketing-loops weekly-review orchestration",
+      "implementation_file": "skills/continuous-improvement/references/field-manual.md",
+      "source_map_file": "skills/continuous-improvement/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "continuous-improvement",
+      "method_id": "continuous-improvement-M02",
+      "method": "Signal ownership",
+      "origin_note": "BlackTwist optimization advisor action tiers",
+      "implementation_file": "skills/continuous-improvement/references/field-manual.md",
+      "source_map_file": "skills/continuous-improvement/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "continuous-improvement",
+      "method_id": "continuous-improvement-M03",
+      "method": "Promotion rule",
+      "origin_note": "Corey loop-state learnings promotion",
+      "implementation_file": "skills/continuous-improvement/references/field-manual.md",
+      "source_map_file": "skills/continuous-improvement/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "continuous-improvement",
+      "method_id": "continuous-improvement-M04",
+      "method": "Guarded execution",
+      "origin_note": "Corey loop-guardrails and nine-part loop template",
+      "implementation_file": "skills/continuous-improvement/references/field-manual.md",
+      "source_map_file": "skills/continuous-improvement/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    },
+    {
+      "skill": "continuous-improvement",
+      "method_id": "continuous-improvement-M05",
+      "method": "Regression checks",
+      "origin_note": "BlackTwist content-pattern-analyzer and experimental design",
+      "implementation_file": "skills/continuous-improvement/references/field-manual.md",
+      "source_map_file": "skills/continuous-improvement/references/source-map.md",
+      "upstream_source_count": 2,
+      "verification": "SOURCE_REVIEWED_REAUTHORED_NEEDS_RUNTIME_EVAL"
+    }
+  ]
+}

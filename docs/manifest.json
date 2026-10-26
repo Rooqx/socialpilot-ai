@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "count": 28,
+  "canonical_directory": "skills",
+  "skills": [
+    "analytics-and-experiments",
+    "audience-research",
+    "carousel-storyboard",
+    "community-engagement",
+    "content-repurposer",
+    "content-strategy",
+    "context-manager",
+    "continuous-improvement",
+    "copy-editor",
+    "editorial-calendar",
+    "fact-checker",
+    "hook-optimizer",
+    "idea-pipeline",
+    "instagram-caption-writer",
+    "linkedin-post-writer",
+    "platform-strategy",
+    "post-qa",
+    "profile-auditor",
+    "publishing-handoff",
+    "reel-scriptwriter",
+    "social-listening",
+    "social-orchestrator",
+    "source-research",
+    "visual-asset-production",
+    "visual-brief",
+    "voice-profiler",
+    "x-post-writer",
+    "x-thread-writer"
+  ],
+  "source_audit": "docs/source-inventory-255.csv",
+  "adapter_directories": [
+    ".agents/skills",
+    ".claude/skills"
+  ]
+}

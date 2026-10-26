@@ -1,0 +1,14 @@
+# Private user profile, writing examples, local drafts, metrics, run logs and exports
+.social/
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+*.log
+
+# Optional opt-in source evidence cache; not part of published bundle
+.source-cache/

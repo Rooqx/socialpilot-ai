@@ -1,0 +1,9 @@
+{
+  "status": "provisional",
+  "sample_source": "none yet; author must review",
+  "rules": {
+    "do": ["Use specific, useful examples when verified"],
+    "avoid": ["Inventing personal stories or numbers"]
+  },
+  "confidence": "unverified"
+}
